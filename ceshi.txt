@@ -1,3 +1,3 @@
-2803:f800:50:75d6:c2a:26da:fc98:b7df#HK [高速 by Jz 38M]
-[2400:cb00:2049:0:274b:bd3:54f8:ca05]#HK [高速 by Jz 38M]
-[2a06:98c1:310b:b8e6:8fa1:6aa1:fc69:61ae]:8443#HK [高速 by Jz 38M]
+2803:f800:50:75d6:c2a:26da:fc98:b7df#HK [IPV6 38M]
+[2400:cb00:2049:0:274b:bd3:54f8:ca05]#SG [IPV6 38M]
+[2a06:98c1:310b:b8e6:8fa1:6aa1:fc69:61ae]:8443#JP [IPV6 38M]
